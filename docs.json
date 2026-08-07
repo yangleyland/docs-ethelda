@@ -9,26 +9,20 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "menu": [
+    "groups": [
       {
-        "item": "Ethelda Product",
-        "icon": "leaf",
-        "groups": [
-          {
-            "group": "Getting Started",
-            "pages": [
-              "index",
-              "quickstart"
-            ]
-          }
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
         ]
       },
       {
-        "item": "Ethelda Hidden",
-        "hidden": true,
+        "group": "Ethelda Hidden",
         "pages": [
           "quickstart"
-        ]
+        ],
+        "hidden": true
       }
     ],
     "global": {
