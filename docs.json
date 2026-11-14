@@ -15,7 +15,8 @@
         "pages": [
           "index",
           "quickstart",
-          "pagemeta-test"
+          "pagemeta-test",
+          "getting-started/merch-store"
         ]
       },
       {
